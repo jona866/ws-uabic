@@ -12,12 +12,12 @@ En este repositorio encontrarás información relacionada con la creación de mo
 ### Requisitos previos
 
 - Cuenta en [GitHub](www.github.com)
-- Nociones básicos de Python. [*Opcional*]
+- Nociones básicas de Python. [*Opcional*]
 
 ### Contenido
-- [Conceptos básicos]().
-- [Introducción a Python]().
-- [Creación de un modelo de Machine Learning]().
+- [Conceptos básicos](/content/conceptos-basicos.md).
+- [Introducción a Python](/content/intro-python.ipynb).
+- [Creación de un modelo de Machine Learning](/content/ml-model.ipynb).
 
 ### Recursos 
 
