@@ -1,0 +1,4 @@
+ipywidgets==7.7.1
+matplotlib
+numpy
+pandas

@@ -11,7 +11,7 @@ En este repositorio encontrarás información relacionada con la creación de mo
 
 ### Requisitos previos
 
-- Cuenta en [GitHub](www.github.com)
+- Cuenta en [GitHub](www.github.com).
 - Nociones básicas de Python. [*Opcional*]
 
 ### Contenido
@@ -46,4 +46,4 @@ En este repositorio encontrarás información relacionada con la creación de mo
 
 - [GitHub Student Developer Pack](https://education.github.com/pack).
 - [Microsoft Student Ambassadors](https://studentambassadors.microsoft.com/).
-- [Certificaciones para estudiantes](https://learn.microsoft.com/es-es/training/student-hub/certifications)
+- [Certificaciones para estudiantes](https://learn.microsoft.com/es-es/training/student-hub/certifications).
